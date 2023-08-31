@@ -43,6 +43,10 @@ The following dependencies are needed to run this project:
 * Matplotlib
 * Seaborn
 
+```bash
+pip install pandas scikit-learn keras imbalanced-learn nltk tensorflow matplotlib seaborn
+```
+
 ## How to run the project
 
 1. Clone the repository.
