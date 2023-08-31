@@ -47,7 +47,7 @@ The following dependencies are needed to run this project:
 
 1. Clone the repository.
 2. Install the dependencies.
-3. Run the following command to train the model:
+3. Run the main.ipynb:
 
 ## Students
 
