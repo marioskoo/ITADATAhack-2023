@@ -54,4 +54,3 @@ The following dependencies are needed to run this project:
 * Attilio Di Vicino
 * Valerio
 * Mariano Forte
-```
