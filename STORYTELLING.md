@@ -20,7 +20,7 @@ We train the GRU model using the preprocessed law text data. The model is traine
 
 ### Insights and Discussion
 
-Our trained model demonstrates promising performance in predicting the law chapters based on the provided text. The high F1 score suggests that the model is effective in capturing both precision and recall. However, we observed challenges related to class imbalance, which prompted us to oversample the underrepresented classes using SMOTE to enhance model generalization.
+Our trained model demonstrates promising performance in predicting the law chapters based on the provided text. The high F1 score suggests that the model is effective in capturing both precision and recall.
 
 ### Conclusion and Future Work
 
